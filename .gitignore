@@ -1,0 +1,17 @@
+# Ignorar arquivos de compilação
+bin/
+obj/
+*.suo
+*.user
+*.userprefs
+
+# Ignorar arquivos de pacotes
+packages/
+
+# Ignorar arquivos do Visual Studio
+.vs/
+*.nupkg
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
